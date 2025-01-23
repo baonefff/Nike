@@ -11,7 +11,7 @@ const Subscribe = () => {
         className="input"
         />
         <div className="flex max-sm:justify-center items-center max-sm:w-full">
-          <Button label= "Sign Up" fullWidt/>
+          <Button label= "Sign Up" fullWidth/>
         </div>
         
       </div>
